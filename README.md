@@ -18,4 +18,4 @@ Site do tipo landing page para divulgar o jogo Let's Go Pikachu. O objetivo dest
 ---
 ## Autor
 
-- [João Pedro]()# pikachu2-2024-ba
+- [João Pedro]()
